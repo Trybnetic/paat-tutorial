@@ -1,0 +1,11 @@
+name: paat-tutorial
+channels:
+  - defaults
+dependencies:
+  - python=3.9
+  - ipython
+  - jupyter
+  - git
+  - pip
+  - pip:
+    - git+https://github.com/Trybnetic/paat.git
