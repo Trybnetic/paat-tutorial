@@ -15,11 +15,11 @@ This repository contains a small tutorial on how to setup [Anaconda Navigator](h
 
 ![Start Jupyter Notebook](.github/start_notebook.png)
 
-6. Navigate to where you have extracted the ZIP file
+6. Start the `tutorial.ipynb` by navigating to where you have extracted the ZIP file
 
 ![Select Notebook File](.github/select.gif)
 
-7. Start the `tutorial.ipynb` with Anaconda Navigator
+7. Play around with the tutorial or adapt it to your own needs
 
 ## Acknowledgments
 
