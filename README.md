@@ -1,8 +1,8 @@
 # Set up Anaconda and PAAT to analyze your GT3X files
 
-This repository contains a small tutorial on how to setup [Anaconda Navigator](https://anaconda.org/anaconda/anaconda-navigator) and [PAAT](https://github.com/Trybnetic/paat) to process your ActiGraph GT3X data.
+This repository contains a small tutorial on how to setup [Anaconda Navigator](https://anaconda.org/anaconda/anaconda-navigator) and [PAAT](https://github.com/Trybnetic/paat) to process your ActiGraph GT3X data. [Anaconda](https://www.anaconda.com/) is a platform providing access to a lot of modern data science and machine learning tools. It also provides environment management which helps to structure your projects and makes research easier replicable. In the following steps, you are guided installing Anaconda Navigator, the graphical application of Anaconda. This repository also contains a environment specification which makes running PAAT to analyze yoru GT3X files very easy. Just follow the steps in the next section and start analyzing your GT3X files in a couple of minutes.
 
-## Getting started
+## Step by step guide
 
 1. [Download](https://github.com/Trybnetic/paat-tutorial/archive/refs/heads/main.zip) this tutorial
 
