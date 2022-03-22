@@ -5,10 +5,18 @@ This repository contains a small tutorial on how to setup [Anaconda Navigator](h
 ## Usage
 
 1. [Download](https://github.com/Trybnetic/paat-tutorial/archive/refs/heads/main.zip) this tutorial
-2. Unzip the file on your PC
+2. Extract the file on your PC
 3. Download and install [Anaconda Navigator](https://anaconda.org/anaconda/anaconda-navigator)
-4. Import the `environment.yml` in Anaconda Navigator
-5. Start the `tutorial.ipynb` with Anaconda Navigator
+4. Import the `environment.yml` in Anaconda Navigator an give it a name (e.g. `paat-tutorial`)
+
+![Import the environment.yml](.github/import.png)
+
+5. Start Jupyter Notebook in the environment
+
+![Start Jupyter Notebook](.github/start_notebook.png)
+
+6. Navigate to where you have extracted the ZIP file
+7. Start the `tutorial.ipynb` with Anaconda Navigator
 
 ## Acknowledgments
 
